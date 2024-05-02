@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Project4_Jaykumar_Kakkad</string>
+    <string name="welcome">Welcome to the game of Gopher Search!</string>
+    <string name="button">PRESS TO START BOT1 vs BOT2</string>
+    <string name="Stop_button">PRESS TO STOP</string>
+
+    <string name="act2_txt1">BOT 1 Progress (BFS)</string>
+    <string name="act2_txt2">BOT 2 Progress (FEEDBACK BFS)</string>
+    <string name="permission_label">Permission to Play the Game</string>
+    <string name="permission_desc">Game features access for the app</string>
+
+</resources>
